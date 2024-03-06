@@ -1,0 +1,25 @@
+.form-container{
+  margin: 100px;
+  padding: 100px  100px;
+  justify-content: center;
+}
+
+.principle-wrapper{
+  padding: 5px;
+}
+
+.interest-wrapper{
+  padding: 5px;
+}
+
+.duration-wrapper{
+  padding: 5px;
+}
+
+.btn-calculate{
+  color: white;
+  padding: 5px 15px;
+  border-radius: 5px;
+  outline: 0;
+  border: 0; 
+}
